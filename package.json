@@ -1,0 +1,10 @@
+{
+	"name": "delayedstream",
+	"version": "0.0.0",
+	"description": "a stream that collects chunks until it's piped into something",
+	"author": "Felix Boehm <me@feedic.com>",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fb55/node-delayedstream.git"
+	}
+}
